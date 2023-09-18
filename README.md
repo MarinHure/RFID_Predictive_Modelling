@@ -28,7 +28,7 @@ However, challenges can arise during the deployment of this technology, which is
 
 1. Clone this repository to your local machine.
 
-2. Set up the required environment and dependencies by following the instructions in the `requirements.txt` file.
+2. Set up the required environment and dependencies.
 
 3. Explore the Jupyter notebooks provided in the project directory for data preprocessing, anomaly detection, and predictive analytics.
 
