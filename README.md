@@ -40,7 +40,6 @@ However, challenges can arise during the deployment of this technology, which is
 
 - `notebooks/`: Includes Jupyter notebooks for various project phases, including data preprocessing, anomaly detection, and predictive modeling.
 
-- `requirements.txt`: Lists the required Python libraries and dependencies for running the project.
 
 ## Contributions and Feedback
 
