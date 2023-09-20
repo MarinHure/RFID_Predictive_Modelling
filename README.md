@@ -24,23 +24,8 @@ However, challenges can arise during the deployment of this technology, which is
 
 4. **Predictive Modeling**: Implement predictive models to anticipate and prevent potential logistics issues.
 
-## Getting Started
-
-1. Clone this repository to your local machine.
-
-2. Set up the required environment and dependencies.
-
-3. Explore the Jupyter notebooks provided in the project directory for data preprocessing, anomaly detection, and predictive analytics.
-
-4. Execute the notebooks and scripts to replicate the results and adapt them to your specific use case.
-
 ## Project Structure
 
 - `data_anonymous/`: Contains the anonymized data files used in the project.
 
 - `notebooks/`: Includes Jupyter notebooks for various project phases, including data preprocessing, anomaly detection, and predictive modeling.
-
-
-## Contributions and Feedback
-
-Contributions and feedback are welcome! If you have ideas for improvements or would like to contribute to this project, please submit issues and pull requests.
