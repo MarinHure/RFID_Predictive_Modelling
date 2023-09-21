@@ -28,4 +28,4 @@ However, challenges can arise during the deployment of this technology, which is
 
 - `data_anonymous/`: Contains the anonymized data files used in the project.
 
-- `notebooks/`: Includes Jupyter notebooks for various project phases, including data preprocessing, anomaly detection, and predictive modeling.
+- `notebooks/`: Includes the Jupyter notebooks including data preprocessing, anomaly detection, and predictive modeling.
