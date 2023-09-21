@@ -1,6 +1,6 @@
 # RFID Data Analysis and Predictive Modeling
 
-This project focuses on improving the efficiency and accuracy of a logistics company's RFID-based inventory and order tracking system through data analysis and predictive modeling. 
+This school project focuses on improving the efficiency and accuracy of a logistics company's RFID-based inventory and order tracking system through data analysis and predictive modeling. 
 RFID (Radio Frequency Identification) technology has become widely utilized in the field of logistics, offering numerous advantages such as precise inventory management and error reduction in billing. 
 However, challenges can arise during the deployment of this technology, which is where this project comes into play.
 
